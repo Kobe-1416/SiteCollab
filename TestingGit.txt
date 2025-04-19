@@ -2,3 +2,6 @@ Stage 1
 
 Stage 2
 Tell me to do it again.
+
+Stage 3
+I stay awake at night.
